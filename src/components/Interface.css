@@ -1,0 +1,14 @@
+.interface{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.interface input{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.interface button{
+    margin-left: 15px;
+    margin-right: 15px;
+}

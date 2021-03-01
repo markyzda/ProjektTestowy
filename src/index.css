@@ -1,0 +1,17 @@
+*{
+    font-size: 20px;
+}
+
+button{
+    cursor: pointer;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.root{
+    width: 100%;
+}
